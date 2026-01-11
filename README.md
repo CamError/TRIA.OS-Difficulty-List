@@ -39,6 +39,5 @@ Example: **[!] Kneeling Shore**
 
 Example: **[!!!] Kneeling Shore**
 
-6. Reach out to us in the official Discord if you would like to switch the placement of a map.
-7. All maps listed be Divine or harder (aside from Public map list).
+6. All maps listed be Divine or harder (aside from Public map list).
 > More rules may be added at a later date.
