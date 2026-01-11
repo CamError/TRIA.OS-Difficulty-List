@@ -35,8 +35,7 @@ This is something that should be looked at and taken into account for everyone, 
 
 Example: **[!] Kneeling Shore**
 
-5. If the bug is map breaking (Its impossible to beat the map because of it) label the map as [!!!] infront of the map name, also **bold** formatted. If a map contains [!!!] for 2 months, it will be removed and only readded after a fix.
-
+5. If the bug is map breaking (Its impossible to beat the map because of it) label the map as [!!!] infront of the map name, also **bold** formatted. Make sure you report these maps to the creator(s) to get it fixed, if you cannot do this report it to TRIA developers that way the map can be unverified. 
 Example: **[!!!] Kneeling Shore**
 
 6. All maps listed be Divine or harder (aside from Public map list).
